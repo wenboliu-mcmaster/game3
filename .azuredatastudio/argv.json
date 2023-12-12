@@ -11,7 +11,7 @@
 	// "disable-hardware-acceleration": true,
 
 	// Enabled by default by VS Code to resolve color issues in the renderer
-	// See https://github.com/microsoft/vscode/issues/51791 for details
+	// See https://github.com/microsoft/vscode/issues/51791 for detailsfffffffffffffff
 	"disable-color-correct-rendering": true,
 
 	// Allows to disable crash reporting.
